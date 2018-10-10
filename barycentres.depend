@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1539178082 source:c:\users\benoît\desktop\info\cpp\barycentres_exo\svgfile.cpp
+	<iostream>
+	<sstream>
+
+1539195257 source:c:\users\benoît\desktop\info\cpp\barycentres_exo\main.cpp
+	"sphere.h"
+	"interfaceCpp.h"
+	<iostream>
+	<windows.h>
+	<math.h>
+
+1539195529 source:c:\users\benoît\desktop\info\cpp\barycentres_exo\sphere.cpp
+	"sphere.h"
+
+1539195404 c:\users\benoît\desktop\info\cpp\barycentres_exo\sphere.h
+	<math.h>
+	"svgfile.h"
+
+1539193688 c:\users\benoît\desktop\info\cpp\barycentres_exo\svgfile.h
+	<iostream>
+	<string>
+	<fstream>
+	<set>
+	<math.h>
+	<vector>
+
+1530559612 source:c:\users\benoît\desktop\info\c\projetinfov2\interface.c
+	"interface.h"
+
+1530485131 c:\users\benoît\desktop\info\c\projetinfov2\interface.h
+	"processing.h"
+
+1530485131 c:\users\benoît\desktop\info\c\projetinfov2\processing.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<limits.h>
+
+1539194227 c:\users\benoît\desktop\info\cpp\barycentres_exo\interfacecpp.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"sphere.h"
+
+1539195718 source:c:\users\benoît\desktop\info\cpp\barycentres_exo\interfacecpp.cpp
+	"interfaceCpp.h"
+
